@@ -2,7 +2,7 @@ SDL_MAJOR := 3
 SDL_MINOR := 2
 SDL_PATCH := 4
 SHA256 := a725bd6d04261fdda0dd8d950659e1dc15a8065d025275ef460d32ae7dcfc182
-SDL3_DIR := ../SDL-Makefile/SDL3-3.2.22/install/lib/cmake/SDL3
+SDL3_DIR := ../SDL/SDL3-3.2.22/install/lib/cmake/SDL3
 
 CMAKE := cmake
 TAR := tar
